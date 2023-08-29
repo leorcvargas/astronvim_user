@@ -18,4 +18,5 @@ return {
       })
     end,
   },
+  { "iamcco/markdown-preview.nvim", lazy = false },
 }
