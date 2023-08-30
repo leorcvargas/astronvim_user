@@ -19,4 +19,6 @@ return {
     end,
   },
   { "iamcco/markdown-preview.nvim", lazy = false },
+  { "github/copilot.vim", lazy = false },
+  { "mg979/vim-visual-multi", lazy = false }
 }
